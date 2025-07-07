@@ -62,7 +62,7 @@ I believe that the best digital experiences happen when insight meets imaginatio
 
 ---
 
-###Let’s Connect!
+### Let’s Connect!
 
 If you’re into creative coding, data design, or just like building cool stuff — you're in the right place.
 Feel free to reach out, collaborate, or explore my projects!
