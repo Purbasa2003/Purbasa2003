@@ -15,10 +15,10 @@ I associate not with numbers alone, but with design, interfaces, and everything 
 
 I may have studied **Statistics**, but numbers weren’t the only thing I fell in love with. Alongside data, I discovered a growing passion for:
 
-- 🎨 **Creative design**  
-- 🧭 **UI/UX exploration**  
-- 🌐 **Building sleek apps & websites**  
-- 🧱 **Frontend Development**  
+-  **Creative design**  
+-  **UI/UX exploration**  
+-  **Building sleek apps & websites**  
+-  **Frontend Development**  
 - 💡 And bringing ideas to life through **code & interactivity**
 
 Even though I don't come from a “tech-first” background, I’ve carved a space where **data meets design**, and I absolutely love it here.
@@ -32,30 +32,30 @@ I blend **analytical thinking** with **creative problem-solving** — here’s w
 **ANALYZE + DESIGN + BUILD + VISUALIZE**
 
 <p style="font-size: 14px;">
-🔢 I break down data to find meaning  
-🎯 I design clean, thoughtful user interfaces using Figma & Adobe XD  
-🛠️ I turn mockups into real apps using HTML, CSS, JavaScript & React  
-📊 And I visualize insights with charts, dashboards & interactive storytelling
+ I break down data to find meaning  
+ I design clean, thoughtful user interfaces using Figma & Adobe XD  
+ I turn mockups into real apps using HTML, CSS, JavaScript & React  
+ And I visualize insights with charts, dashboards & interactive storytelling
 </p>
 
 ---
 
 ### 🧰 Languages & Tools I Use
 
-- 💬 **Languages**: R, Python, HTML, CSS, JavaScript  
-- ⚙️ **Frameworks**: React, Tailwind CSS, Bootstrap  
-- 🖌️ **Design Tools**: Figma, Adobe XD, Canva  
-- 📈 **Data Tools**: Pandas, NumPy, ggplot2, Power BI, Tableau  
-- 🧩 **Other**: Git/GitHub, SQL, Streamlit, Shiny, APIs
+-  **Languages**:        R, Python, HTML, CSS, JavaScript  
+-  **Frameworks**:       React, Tailwind CSS, Bootstrap  
+-  **Design Tools**:     Figma, Adobe XD, Canva  
+-  **Data Tools**:       Pandas, NumPy, ggplot2, Power BI, Tableau  
+-  **Other**:            Git/GitHub, SQL, Streamlit, Shiny, APIs
 
 ---
 
 ### 🚀 Currently Working On
 
-- 💻 Building responsive, user-friendly websites  
-- 📊 Creating interactive data apps  
-- 🧠 Exploring the intersection of **frontend design** and **data storytelling**  
-- 🌱 Constantly learning new ways to build smarter, better, and cleaner
+-  Building responsive, user-friendly websites  
+-  Creating interactive data apps  
+-  Exploring the intersection of **frontend design** and **data storytelling**  
+-  Constantly learning new ways to build smarter, better, and cleaner
 
 ---
 
