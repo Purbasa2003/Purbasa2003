@@ -4,6 +4,7 @@
 ---
 
 **Hey there! I'm Purbasa Bhaduri**
+
 A freshly minted Statistics graduate with not so typical interests. I associate not with numbers alone, but with design, interfaces, and everything that makes a digital product _feel_ just right
 ---
 
