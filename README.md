@@ -1,9 +1,9 @@
 
-### *You clicked... might as well scroll through — promise I won't disappoint.*
+### You clicked... might as well scroll through — promise I won't disappoint.
 
 ---
 
-**Hey there! I'm Purbasa Bhaduri**
+### **Hey there! I'm Purbasa Bhaduri**
 
 A freshly minted Statistics graduate with not so typical interests. I associate not with numbers alone, but with design, interfaces, and everything that makes a digital product _feel_ just right
 ---
@@ -25,8 +25,7 @@ Even though I don't come from a “tech-first” background, I’ve carved a spa
 ### **What I Do**
 
 I blend **analytical thinking** with **creative problem-solving** — here’s what that looks like: 
-**ANALYZE + DESIGN + BUILD + VISUALIZE**
-
+### **ANALYZE + DESIGN + BUILD + VISUALIZE** 
 I dentify numbers, spot patterns, design UIs using tools like Figma & Adobe XD. Then turn mockups into live apps using frontend tech. And finally, make data speak through dashboards, plots & visual storytelling
 ---
 
